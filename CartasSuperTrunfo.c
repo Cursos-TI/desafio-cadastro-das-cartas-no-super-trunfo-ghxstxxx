@@ -10,6 +10,8 @@ int main() {
     char pib[50] = "4.10 trilhões de dólares";
     int turismo = "20";
 
+    // nao consigo entender qual o erro que esta acontecendo 
+    
     printf("Digite o estado: \n");
     scanf("%c", &estado);
     printf("Digite uma cidade: \n");
