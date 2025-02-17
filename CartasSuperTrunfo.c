@@ -22,9 +22,8 @@ int main() {
     scanf("%s", &pib);
     printf("Quantos pontos turisticos? \n");
     scanf("%d", &turismo);
-    printf("Quantos km2 tem Moscou? \n")
+    printf("Quantos km2 tem Moscou? \n");
     scanf("%f", &area);
     printf("qual o codigo? \n");
-    scanf("%s", &codigo)
-
+    scanf("%s", &codigo);
 }
