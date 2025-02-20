@@ -19,6 +19,6 @@ int main() {
     printf("pontos turisticos: %c\n", &turismo);
     
     
-   // os numeros aparecem como caracteres irreconheciveis ou zerados //
+   // os numeros aparecem como caracteres irreconheciveis ou zerados e nao consigo suporte para solucionar minha duvida //
     
 }
