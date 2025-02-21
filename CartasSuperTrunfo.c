@@ -61,6 +61,7 @@ int main() {
     // DADOS DAS CARTAS //
 
    // CARTA 1 //
+   
     printf("Estado: %c\n", estado1);
     printf("Código: %c %s\n", estado1, codigo1);
     printf("Nome da Cidade: %s\n", cidade1);
