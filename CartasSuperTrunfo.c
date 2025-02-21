@@ -61,14 +61,14 @@ int main() {
     // DADOS DAS CARTAS //
 
    // CARTA 1 //
-   
+
     printf("Estado: %c\n", estado1);
     printf("Código: %c %s\n", estado1, codigo1);
     printf("Nome da Cidade: %s\n", cidade1);
     printf("População: %d\n", população1);
     printf("Área em km²: %f\n", area1);
-    printf("PIB: %f bilhões de reais\n", pib1);
-    printf("Número de Pontos Turísticos: %d\n", turismo1);
+    printf("PIB: %f bilhões\n", pib1);
+    printf("Número de pontos turisticos: %d\n", turismo1);
 
     // CARTA 2 //
 
@@ -77,8 +77,8 @@ int main() {
     printf("Nome da Cidade: %s\n", cidade2);
     printf("População: %d\n", população2);
     printf("Área em km²: %f\n", area2);
-    printf("PIB: %f bilhões de reais\n", pib2);
-    printf("Número de Pontos Turísticos: %d\n", turismo2);
+    printf("PIB: %f bilhões\n", pib2);
+    printf("Número de pontos turisticos: %d\n", turismo2);
 
     return 0;
 }
